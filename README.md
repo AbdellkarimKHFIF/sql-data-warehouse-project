@@ -1,19 +1,27 @@
-📊 Modern Data Warehouse with SQL Server
+🚀 Modern Data Warehouse with SQL Server
 
-This project demonstrates the design and implementation of a modern data warehouse using SQL Server, covering the full data lifecycle from ingestion to analytics.
-The repository includes:
-ETL pipelines to extract, transform, and load data from source systems into the warehouse
-Dimensional data modeling (star/snowflake schemas) optimized for analytical queries
-Fact and dimension tables designed following data warehousing best practices
-SQL-based transformations for data cleaning, enrichment, and aggregation
-Analytical queries and reports to support business intelligence and decision-making
-The project focuses on scalability, performance, and data quality, and reflects real-world data engineering and analytics workflows using SQL Server.
+📌 Project Overview
 
-Technologies & Concepts
+This project demonstrates the design and implementation of a **Modern Data Warehouse** using **Microsoft SQL Server**.
 
-  SQL Server
-  T-SQL
-  ETL processes
-  Data warehouse architecture
-  Dimensional modeling
-  Analytical queries & reporting
+The objective of this project is to simulate a **real-world data engineering workflow**, including:
+
+* Ingesting raw data from multiple source systems
+* Building an **ETL pipeline** using T-SQL
+* Cleaning and transforming data
+* Designing a **Star Schema data model**
+* Creating **analytics-ready datasets** for business reporting
+
+The warehouse integrates data from **CRM** and **ERP systems** and transforms it into **business-ready insights** used for analytics and decision-making.
+
+---
+
+🎯 Project Goals
+
+The main goals of this project are:
+
+* Practice **Data Warehouse architecture design**
+* Build a **multi-layer data pipeline**
+* Implement **data cleaning and transformation logic**
+* Model data using **fact and dimension tables**
+* Perform **business analytics using SQL**
