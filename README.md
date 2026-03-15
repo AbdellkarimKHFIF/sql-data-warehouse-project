@@ -63,9 +63,7 @@ The architecture is divided into three layers:
      │    Gold Layer   │
      │ Business Model  │
      └─────────────────┘
-             │
-             ▼
-       Analytics / BI
+       
 ```
 
 ---
